@@ -93,7 +93,7 @@ AI_Compiler/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Amogha2501/AI-COMPILER.git
    cd AI_Compiler
    ```
 
@@ -118,6 +118,12 @@ AI_Compiler/
    ```
    
    The server will run on `http://localhost:3000` by default.
+
+ ## Live Demo
+
+## Live Demo
+
+https://your-render-url.onrender.com
 
 ## Usage
 
