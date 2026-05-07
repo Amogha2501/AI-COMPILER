@@ -1,0 +1,102 @@
+[
+  {
+    "id": "real-1",
+    "type": "real",
+    "prompt": "Build a task management system where users can create, assign, and track the status of tickets. It needs role-based access control for admins, managers, and standard users."
+  },
+  {
+    "id": "real-2",
+    "type": "real",
+    "prompt": "Create an e-commerce platform for selling digital art. It should have a product catalog, shopping cart, and integrate with Stripe for payments. Creators should have a dashboard to upload art."
+  },
+  {
+    "id": "real-3",
+    "type": "real",
+    "prompt": "Develop a real-time chat application with channels, direct messaging, and read receipts. It must support file attachments and push notifications."
+  },
+  {
+    "id": "real-4",
+    "type": "real",
+    "prompt": "Design a CRM system for real estate agents to manage properties and clients. It should include calendar integration for scheduling viewings and automated email follow-ups."
+  },
+  {
+    "id": "real-5",
+    "type": "real",
+    "prompt": "Build a learning management system (LMS). Instructors can create courses with video lessons and quizzes. Students can track progress and earn certificates upon completion."
+  },
+  {
+    "id": "real-6",
+    "type": "real",
+    "prompt": "Create a telemedicine platform where patients can book video appointments with doctors. Include electronic health record (EHR) management and secure prescription routing."
+  },
+  {
+    "id": "real-7",
+    "type": "real",
+    "prompt": "Develop a SaaS tool for social media scheduling. Users can connect their accounts, schedule posts across Twitter, LinkedIn, and Facebook, and view analytics."
+  },
+  {
+    "id": "real-8",
+    "type": "real",
+    "prompt": "Design an internal HR portal for employee onboarding. It should track document submissions, equipment requests, and training modules."
+  },
+  {
+    "id": "real-9",
+    "type": "real",
+    "prompt": "Build a recipe sharing application with a meal planning feature. Users can generate grocery lists based on selected recipes and filter by dietary restrictions."
+  },
+  {
+    "id": "real-10",
+    "type": "real",
+    "prompt": "Create a financial budgeting app that allows users to link bank accounts, categorize transactions automatically, and set monthly spending limits."
+  },
+  {
+    "id": "edge-1",
+    "type": "edge",
+    "prompt": "Make an app."
+  },
+  {
+    "id": "edge-2",
+    "type": "edge",
+    "prompt": "Build a system that predicts the stock market using astrology. Also, it needs to be an MMO RPG."
+  },
+  {
+    "id": "edge-3",
+    "type": "edge",
+    "prompt": "Create a database where users can only delete things, but never create them."
+  },
+  {
+    "id": "edge-4",
+    "type": "edge",
+    "prompt": "I need a website that is just a red button. When you click it, it emails the CEO."
+  },
+  {
+    "id": "edge-5",
+    "type": "edge",
+    "prompt": "Design an API for managing a fleet of flying cars. Ensure the database schema accounts for the flux capacitor energy levels."
+  },
+  {
+    "id": "edge-6",
+    "type": "edge",
+    "prompt": "Build a fully decentralized, blockchain-based, AI-driven, quantum-encrypted note taking app. Make it simple."
+  },
+  {
+    "id": "edge-7",
+    "type": "edge",
+    "prompt": "I want an app that clones Twitter but without using any databases."
+  },
+  {
+    "id": "edge-8",
+    "type": "edge",
+    "prompt": "Create a login system where the password must be exactly 0 characters long."
+  },
+  {
+    "id": "edge-9",
+    "type": "edge",
+    "prompt": "Design a system for a single user to chat with themselves in real time."
+  },
+  {
+    "id": "edge-10",
+    "type": "edge",
+    "prompt": "Build an app where the UI changes language every 5 seconds randomly."
+  }
+]
